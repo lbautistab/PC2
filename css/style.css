@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+#result {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#numberList {
+    margin-bottom: 10px;
+    font-size: larger;
+}
+
+.numberItem {
+    font-size: 30px;
+    color: #5074ff;
+    background-color: aliceblue;
+}
